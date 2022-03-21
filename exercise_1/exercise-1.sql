@@ -2,7 +2,7 @@
 -- use INNER JOIN FROM address on to city
 
 SELECT
-  *
+  address_id
 FROM
   city
 INNER JOIN
